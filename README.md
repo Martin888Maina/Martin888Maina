@@ -1,7 +1,11 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Full-Stack+Web+Developer;Laravel+%7C+React+%7C+Node.js+%7C+Flutter;Microsoft+Certified+Azure+Developer;Building+Scalable+Web+Applications&font=Fira+Code&size=22&color=F75C7E&center=true&vCenter=true&width=600&height=60)](https://git.io/typing-svg)
 
 # 💫 About Me:
-Full-stack web applications using Laravel, React & Node.js | Microsoft Certified Azure Developer<br>Advanced cloud architecture on Azure & AI-assisted development workflows | Microsoft Certified (SC-900 & AZ-204)<br>PHP/Laravel, React, Node.js, MySQL, Firebase, MongoDB, RESTful APIs, Azure deployment & CI/CD pipelines<br>https://www.linkedin.com/in/martin-kamau-maina/<br>"First, solve the problem. Then, write the code." — John Johnson | "Software is a great combination between artistry and engineering." — Bill Gates
+🔭 I'm currently working on **Full-stack web applications using Laravel, React & Node.js | Microsoft Certified Azure Developer**<br>
+🌱 I'm currently learning **Advanced cloud architecture on Azure & AI-assisted development workflows | Microsoft Certified (SC-900 & AZ-204)**<br>
+💬 Ask me about **PHP/Laravel, React, Node.js, MySQL, Firebase, MongoDB, RESTful APIs, Azure deployment & CI/CD pipelines**<br>
+📫 How to reach me **https://www.linkedin.com/in/martin-kamau-maina/**<br>
+✨ **"First, solve the problem. Then, write the code." — John Johnson | "Software is a great combination between artistry and engineering." — Bill Gates**
 
 
 ## 🌐 Socials:
