@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Full-Stack+Web+Developer;Laravel+%7C+React+%7C+Node.js+%7C+Flutter;Microsoft+Certified+Azure+Developer;Building+Scalable+Web+Applications&font=Fira+Code&size=22&color=F75C7E&center=true&vCenter=true&width=600&height=60)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Full-Stack+Software+Developer;Laravel+%7C+React+%7C+Node.js+%7C+Flutter;Microsoft+Certified+Azure+Developer;Building+Scalable+Web+Applications&font=Fira+Code&size=22&color=F75C7E&center=true&vCenter=true&width=600&height=60)](https://git.io/typing-svg)
 
 # 💫 About Me:
 🔭 I'm currently working on **Full-stack web applications using Laravel, React & Node.js | Microsoft Certified Azure Developer**<br>
